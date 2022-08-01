@@ -1,2 +1,0 @@
-# vue-fast-typing
-test
